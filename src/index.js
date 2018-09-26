@@ -1,8 +1,14 @@
 // import `.scss` files
 import './scss/main.scss';
 
+//import React Components
+import features from './js/components/features';
+
 // import vendors
 import ScrollReveal from './vendors/scrollreveal';
+
+
+
 
 // Scroll Reveal
 window.sr = ScrollReveal(); 
@@ -13,4 +19,3 @@ sr.reveal('*', {
     origin: 'bottom',
     distance: '100px' 
 });
-

@@ -1,0 +1,27 @@
+
+<svg width="333px" height="331px" viewBox="0 0 133 131" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-1">
+            <stop stop-color="#00D7FD" offset="0%"></stop>
+            <stop stop-color="#DC37AB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100.05157%" y2="99.0706728%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-60.000000, -80.000000)">
+            <g id="MFB-Logo" transform="translate(57.000000, 80.000000)">
+                <g id="Group">
+                    <path d="M9.3194875,0.358793994 L82.8390244,26.0488014 C83.8352976,26.3969302 84.6536243,27.1246728 85.115715,28.0734754 L132.19891,124.748571 C133.166197,126.734685 132.340275,129.128891 130.354161,130.096178 C129.808545,130.361907 129.209616,130.5 128.602732,130.5 L8,130.5 C5.790861,130.5 4,128.709139 4,126.5 L4,4.13489684 C4,1.92575784 5.790861,0.134896842 8,0.134896842 C8.44928207,0.134896842 8.89535368,0.210588475 9.3194875,0.358793994 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                    <text id="MFB" stroke="url(#linearGradient-2)" stroke-width="1.5" font-family="GTWalsheimProBold, GT Walsheim Pro" font-size="67" font-weight="bold" fill="#F9DD3D">
+                        <tspan x="0" y="90.5">MFB</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,72 @@
+import React from 'react'
+
+const Scrollreveal = ({ svgRef, title, ...props }) => (
+  <svg viewBox="2 2 42 32" width="1em" height="1em" ref={svgRef} {...props}>
+    <title>{title}</title>
+    <rect
+      fill="#FFCB36"
+      fillRule="evenodd"
+      x={2}
+      y={2}
+      width={6}
+      height={18}
+      rx={3}
+    />
+    <rect
+      fill="#007D97"
+      fillRule="evenodd"
+      x={26}
+      y={2}
+      width={6}
+      height={32}
+      rx={3}
+    />
+    <rect
+      fill="#2EAD6D"
+      fillRule="evenodd"
+      x={14}
+      y={2}
+      width={6}
+      height={8}
+      rx={3}
+    />
+    <rect
+      fill="#E31D65"
+      fillRule="evenodd"
+      x={14}
+      y={16}
+      width={6}
+      height={18}
+      rx={3}
+    />
+    <rect
+      fill="#E31D65"
+      fillRule="evenodd"
+      x={38}
+      y={2}
+      width={6}
+      height={18}
+      rx={3}
+    />
+    <rect
+      fill="#FF7C35"
+      fillRule="evenodd"
+      x={2}
+      y={26}
+      width={6}
+      height={8}
+      rx={3}
+    />
+    <rect
+      fill="#553BB8"
+      fillRule="evenodd"
+      x={38}
+      y={26}
+      width={6}
+      height={8}
+      rx={3}
+    />
+  </svg>
+)
+
+export default Scrollreveal
